@@ -1,1 +1,1 @@
-<h4>Prazer, Sou o José Carlos! que ama tecnologia em saúde<h4> 
+<h4>Prazer, Sou o José Carlos! que ama tecnologia em saúde<h4> g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>
