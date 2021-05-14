@@ -2,7 +2,7 @@
 
 <h4>Prazer, Sou o Jose Carlos! Um cara que ama tecnologia em saúde<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji></h4>  
 
-<p>• <g-emoji class="g-emoji" alias="school_satchel" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f392.png">🎒</g-emoji>Cursando MBA-USP/ESALQ em Data Science e Analytic.<br>
+<p>• <g-emoji class="g-emoji" alias="school_satchel" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f392.png">🎒</g-emoji>Cursando MBA-USP/ESALQ em Data Science e Analytics<br>
 • <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji>Tenho experiencia com SQL, BI, Python, Linux<br>
 • <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji>Estou aprendendo: Pyton, R, Estatística</p>
 
